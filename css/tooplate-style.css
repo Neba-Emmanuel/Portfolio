@@ -499,6 +499,11 @@ svg:hover {
   }
 }
 @media (max-width: 767px) {
+  /* svg {
+    width: 20pt;
+    height: 20pt;
+  } */
+
   h1 {
     font-size: 2.4em;
   }
@@ -522,6 +527,11 @@ svg:hover {
   }
 }
 @media (max-width: 580px) {
+  svg {
+    width: 20pt;
+    height: 20pt;
+  }
+
 	.animated-info {
 		min-width: 200px;
 	}
@@ -548,6 +558,11 @@ svg:hover {
   }
 }
 @media (max-width: 320px) {
+
+  svg {
+    width: 20pt;
+    height: 20pt;
+  }
   .animated-text {
     margin-top: 0;
   }
